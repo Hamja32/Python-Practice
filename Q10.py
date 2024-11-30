@@ -1,4 +1,4 @@
-#Write a python program to convert fahrenheit to celsius
+# Q10 : Write a python program to convert fahrenheit to celsius
 #formula
 #celsius = (fahrenheit - 32) * 5/9
 

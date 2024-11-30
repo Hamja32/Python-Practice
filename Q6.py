@@ -1,4 +1,4 @@
-#Write a Python program to calculate the area of a triangle
+# Q6 : Write a Python program to calculate the area of a triangle
 base = int(input("Enter triangle base :"))
 height = int(input("Enter triangle height :"))
 #calculation
